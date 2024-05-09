@@ -13,12 +13,12 @@
             "UpdateInterval": 12
         },
         "tabs": [
-            {
+             {
                 "tab1": {
                     "layout": 1,
-                   "buttontext": "Important Info",
-                    "title1": "This is a PVE server so treat each other with respect.",
-                    "text1": "<TextStyle.Green>Keyboard shortcuts</>\n ● F1 WBUI INFO\n ● F3 VOTE\n ● F4 REPORT\n ● F6 RATE COMMUNITY\n\nConsole players can find <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or holding <TextStyle.Green>□</> on PS.\n\nFor voting for the server you will receive 200 tokens, more for Supporter Tiers. Remember to use <TextStyle.Green>!Claim</> on <TextStyle.Green>#bot-spam</> discord channel after voting.\n\n<TextStyle.Green>Decay settings:</>\n ● Thatch - 8 Days  \n ● Wood - 16 Days  \n ● Stone - 24 Days  \n ● Metal - 32 Days  \n ● Creatures - 16 Days\n\nTo fully benefit from the possibility of collecting <TextStyle.Green>Tokens</>, each new player should connect in-game character with a website account. After <TextStyle.Green>connecting your accounts</>, tokens received for voting, time spent in the game and those received as part of supporter tiers will be automatically assigned to your account.\n\nIf you have any questions, please visit discord.",
+                    "buttontext": "Welcome",
+                    "title1": "First of all, have a great time!",
+                    "text1": "\nWe are excited to have you join us on this epic journey through a world filled with danger and adventure. In this world, you will need to gather resources, craft items, and build shelters to survive against the various challenges that you will face.\n\nAs you explore the beautiful and diverse environments of Ark, you will encounter a variety of different creatures, both friendly and hostile. You will need to use your skills and wits to tame, train, and ride these creatures, using them to help you in your journey.\n\n\nOur server is home to a thriving community of players who are always eager to help new players. Be sure to join us in our Discord server to stay up to date on all the latest news and events.\n\n\n<TextStyle.Green>What you can expect from our Community</>\n ? always available, up-to-date servers with the highest quality hardware,\n ? the most interesting mods,\n ? balanced settings, although we also have servers with crazy ones sometimes,\n ? support from admin, community helpers and players,\n ? no toxic behavior,\n ? influence on server development thanks to suggestion channels and regular surveys,\n ? and a lot more.\n\n\nThank you for choosing to play on our \n<TextStyle.Green>Nokturnal Ark Server</>. We hope you have a fun and rewarding experience with us!\n<TextStyle.Green>Rav3nG4mer</>",
                     "imageurl": "https://i.imgur.com/OuYGgHW.png"
                 }
             },
